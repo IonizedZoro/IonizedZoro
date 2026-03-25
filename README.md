@@ -57,26 +57,41 @@
 
 > *"The people who are crazy enough to think they can change the world are the ones who do."* — Steve Jobs
 
+## 📊 My Coding Journey
+
+<div align="center">
+
+![](https://img.shields.io/badge/Status-Learning%20Every%20Day-58a6ff?style=for-the-badge)
+![](https://img.shields.io/badge/Focus-C%2B%2B%20%26%20Python-56d364?style=for-the-badge)
+![](https://img.shields.io/badge/Goal-MIT%20%F0%9F%8E%AF-d2a8ff?style=for-the-badge)
+![](https://img.shields.io/badge/Mode-Building%20%F0%9F%94%A5-e3b341?style=for-the-badge)
+
+</div>
+
+> 🚀 **Early stage — big things loading...** Watch this space!
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IonizedZoro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IonizedZoro&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IonizedZoro&theme=tokyonight&hide_border=true" width="70%"/>
+</div>
 
 ---
 
 ## 📬 Connect With Me
 
-<p align="center">
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="center">
+  <a href="mailto:ramim.hasanmehedi@gmail.com"><img src="https://img.shields.io/badge/Gmail-ramim.hasanmehedi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/IonizedZoro"><img src="https://img.shields.io/badge/GitHub-IonizedZoro-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
 
 ---
 
 <p align="center">⭐ If something here resonates, feel free to star a repo or just say hi!<br>
-Made with 💙 by Ramim · Class of 2026</p>
+
