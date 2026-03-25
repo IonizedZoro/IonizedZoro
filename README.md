@@ -21,7 +21,7 @@
 
 ---
 
-## 🧑‍🚀 About Me
+##  About Me
 
 | | |
 |---|---|
@@ -30,34 +30,34 @@
 
 ---
 
-## ✨ My Dream
+##  My Dream
 
 > *"I dream of studying at **MIT** — and from there, reaching for the stars. Whether it's engineering spacecraft or shaping foreign policy, my goal is to represent ideas that matter, at the highest level."*
 
 ---
 
-## 🛠️ What I'm Learning
+##  What I'm Learning
 
 `C++` · `Python` · `Chemistry - Organic` · `Higher Math` · `Physics` · `Game Development`
 
 ---
 
-## 🌌 Things That Excite Me
+##  Things That Excite Me
 
-- 🚀 **Space & Extraterrestrial Phenomena**
-- 🌍 **Global Politics & Foreign Affairs**
-- 🔭 **Rockets & Aerospace Engineering**
-- 💻 **Coding & Game Development**
-- ⚗️ **Chemistry & Organic Compounds**
-- 📚 **Reading & Deep Learning**
+-  **Space & Extraterrestrial Phenomena**
+-  **Global Politics & Foreign Affairs**
+-  **Rockets & Aerospace Engineering**
+-  **Coding & Game Development**
+-  **Chemistry & Organic Compounds**
+-  **Reading & Deep Learning**
 
 ---
 
-## 💬 A Thought I Live By
+##  A Thought I Live By
 
 > *"The people who are crazy enough to think they can change the world are the ones who do."* — Steve Jobs
 
-## 📊 My Coding Journey
+##  My Coding Journey
 
 <div align="center">
 
@@ -68,23 +68,19 @@
 
 </div>
 
-> 🚀 **Early stage — big things loading...** Watch this space!
+>  **Early stage — big things loading...** Watch this space!
 ---
 
-## 📊 GitHub Stats
+##  Skills
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IonizedZoro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IonizedZoro&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
+| Skill | Level |
+|-------|-------|
+| Python | ⭐⭐⭐ Intermediate |
+| Data Structures & Algorithms | ⭐⭐ Growing |
+| C++ | ⭐ Learning |
+| Game Dev (SFML) | ⭐ Exploring 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=IonizedZoro&theme=tokyonight&hide_border=true" width="70%"/>
-</div>
-
----
-
-## 📬 Connect With Me
+##  Connect With Me
 
 <div align="center">
   <a href="mailto:ramim.hasanmehedi@gmail.com"><img src="https://img.shields.io/badge/Gmail-ramim.hasanmehedi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
